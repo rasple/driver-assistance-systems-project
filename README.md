@@ -12,3 +12,7 @@ Alle Aufgaben wurden mit Matlab 2019a gelöst.
 
 In der Datei laengsdynamik.slx ist die Simulation für das Bild 3.3.
 Die Werte der Lookuptable sind Bild 3.1 des Skriptes entnommen und das Scope 3.3 zeigt den Verlauf der Geschwindigkeit bei der Vollbremsung
+
+### 3.8
+
+Die Funktion plot3_8(Gg,Gh, l, hs) plottet das Bild 3.8.
