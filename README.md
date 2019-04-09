@@ -15,4 +15,8 @@ Die Werte der Lookuptable sind Bild 3.1 des Skriptes entnommen und das Scope 3.3
 
 ### 3.8
 
-Die Funktion plot3_8(Gg,Gh, l, hs) plottet das Bild 3.8.
+Die Funktion plot3_8(Gg,Gh, l, hs) plottet das Bild 3.8. Wobei der erste und der dritte Quadrant einzeln geplottet werden.
+
+### 4.6 
+
+Der Eigenlenkgradient wird berechnet und in ein Diagramm geplottet.
