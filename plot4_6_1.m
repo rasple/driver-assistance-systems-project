@@ -19,6 +19,7 @@ function plot4_6_1(Ch, Cv, lv, lh, m, g)
     unten=ack-(EG.*a);
     subplot(2,1,1);
     plot(a, ack,'--', a, oben, a, unten);
+    title('Kreisfahrtest mit konstanter Geschwindigkeit');
     str_x = '$$ \frac{ \delta_{H} }{ i_{s} } $$';
     xlabel(str_x,'Interpreter','latex')
     str_y = '$$ a_{y} $$';
@@ -32,6 +33,7 @@ function plot4_6_1(Ch, Cv, lv, lh, m, g)
     unten=ack-(EG.*a);
     subplot(2,1,2);
     plot(a, ack, a, oben, a, unten);
+     title('Kreisfahrtest auf konstantem Radius');
     xlabel(str_x,'Interpreter','latex')
     ylabel(str_y,'Interpreter','latex')
 end
