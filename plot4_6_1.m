@@ -1,11 +1,12 @@
-function plot4_6_1()
+%Plottet das Bild 4_6
+function plot4_6_1(Ch, Cv, lv, lh, m, g)
     %Ch, Cv, lv, lh, m, g
-    %ChStern = Ch * (lv+lh) / lv / m / g;
-    %CvStern = Cv * (lv+lh) / lh / m / g;
+    Chs = (Ch * (lv+lh)) / (lv* m *g);
+    Cvs = (Cv * (lv+lh))/ (lh *m * g);
     %konstante geschwinidkeit
-    Cvs=9.5;
-    Chs=20.5;
-    g=9.81;
+    %Cvs=9.5;
+    %Chs=20.5;
+    %g=9.81;
     EG=((1/Cvs)-(1/Chs))/g;
     %konstante geschwinigkeit
     v=20;
