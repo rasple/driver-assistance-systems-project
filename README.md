@@ -20,3 +20,7 @@ Die Funktion plot3_8(Gg,Gh, l, hs) plottet das Bild 3.8. Wobei der erste und der
 ### 4.6 
 
 Der Eigenlenkgradient wird berechnet und in ein Diagramm geplottet.
+
+## GUI
+
+Alle Funktionen können auch über die GUI-Aufgerufen werden (gui.mlapp). Einfach das gewünschte Tab mit der Aufgabe auswählen und gegebenenfalls "simulieren" drücken.
