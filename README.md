@@ -10,12 +10,12 @@ Alle Aufgaben wurden mit Matlab 2019a gelöst.
 
 ### 3.3
 
-In der Datei laengsdynamik.slx ist die Simulation für das Bild 3.3. Die Funktion plot3_3() ruft das Modul auf und plotet die drei Graphen. Die Werte der Lookuptable sind Bild 3.1 des Skriptes entnommen und die Scopes zeigen jeweils den Verlauf der Fahrverzögerung, der Fahrgeschwindigkeit und den Weg.
+In der Datei laengsdynamik.slx ist die Simulation für das Bild 3.3. Die Funktion plot3_3() ruft das Modul auf und plottet die drei Graphen. Die Werte der Lookuptable sind Bild 3.1 des Skriptes entnommen und die Scopes zeigen jeweils den Verlauf der Fahrverzögerung, der Fahrgeschwindigkeit und den Weg.
 
 
 ### 3.8
 
-Die Funktion plot3_8(Gg,Gh, l, hs) plottet das Bild 3.8. Wobei der erste und der dritte Quadrant einzeln geplottet werden.
+Die Funktion plot3_8(Gg,Gh, l, hs) plottet das Bild 3.8.
 
 ### 4.6 
 
