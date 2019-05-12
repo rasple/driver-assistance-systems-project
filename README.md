@@ -23,4 +23,4 @@ Der Eigenlenkgradient wird berechnet und in ein Diagramm geplottet.
 
 ## GUI
 
-Alle Funktionen können auch über die GUI-Aufgerufen werden (gui.mlapp). Hierfür sind die *UIAxes.m Daten verantwortlich. Einfach das gewünschte Tab mit der Aufgabe auswählen und gegebenenfalls "simulieren" drücken.
+Alle Funktionen können auch über die GUI-Aufgerufen werden (gui.mlapp). Hierfür sind die *UIAxes.m Datein verantwortlich. Einfach das gewünschte Tab mit der Aufgabe auswählen und gegebenenfalls "simulieren" drücken.
