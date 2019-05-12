@@ -22,6 +22,7 @@ function plot4_6_1UIAxes(axes1, axes2, Ch, Cv, lv, lh, m, g)
     xlabel(axes1, str_x,'Interpreter','latex')
     str_y = '$$ a_{y} $$';
     ylabel(axes1, str_y,'Interpreter','latex')
+    title(axes1, 'Kreisfahrtest mit konstanter Geschwindigkeit');
     %konstante Radius
     v=0:0.01:7;
     R=100;
@@ -33,4 +34,5 @@ function plot4_6_1UIAxes(axes1, axes2, Ch, Cv, lv, lh, m, g)
     plot(axes2, a, ack, a, oben, a, unten);
     xlabel(axes2, str_x,'Interpreter','latex')
     ylabel(axes2, str_y,'Interpreter','latex')
+    title(axes2, 'Kreisfahrtest auf konstantem Radius');
 end
